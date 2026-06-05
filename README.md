@@ -9,8 +9,8 @@ This repository implements a Transformer-based architecture to classify cognitiv
 To initialize the environment in Google Colab, run the following block to clone the repository and enter the project directory:
 
 ```bash
-git clone https://github.com/divyaprakash1845/UGP-01
-%cd UGP-01
+git clone https://github.com/divyaprakash1845/MAESTRO-COGBCI
+%cd MAESTRO-COGBCI
 
 ```
 
